@@ -12,4 +12,5 @@ Ultimately, we will generate multiple candidate resumes and test them against th
 
 Give me your thoughts on this first step and how we might improve it.
 
+Show results in a markdown table.
 Output as quarto md and render to pdf.
